@@ -1,0 +1,108 @@
+{
+  "videos": [
+    {
+      "id": "2",
+      "title": "Learn React JS - Full Beginner’s Tutorial (2024) & Practice Projects",
+      "author": "freeCodeCamp.org",
+      "link": "https://www.youtube-nocookie.com/embed/x4rFhThSX04?si=vQ4QCJwsn8dKIcsH",
+      "thumbnail": "https://i.ytimg.com/vi/x4rFhThSX04/maxresdefault.jpg",
+      "duration": "5:50:46",
+      "views": "205.2k",
+      "category": "react",
+      "date": "Nov 26, 2023",
+      "description": "Throughout this tutorial, you'll tackle over 170 interactive coding challenges and build six exciting projects. If you're tired of React courses that leave you staring blankly at an empty editor screen, you're in the right place! Here, you'll actually build React projects by the end, giving you the confidence and skills to tackle real-world apps. ",
+      "randomImg": "https://randomuser.me/api/portraits/women/67.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Node.js Ultimate Beginner’s Guide in 7 Easy Steps",
+      "author": "Fireship",
+      "link": "https://www.youtube-nocookie.com/embed/ENrzD9HAZK4?si=NmTLuEOi7g6dl5Hp",
+      "thumbnail": "https://i.ytimg.com/vi/ENrzD9HAZK4/maxresdefault.jpg",
+      "duration": "02:33:06",
+      "views": "106k",
+      "category": "nodejs",
+      "date": "Jan 26, 2020",
+      "description": "Why learn Node.js in 2020? Master the fundamentals of Node in 7 easy steps, then build a fullstack web app and deploy it to a cloud server. Follow along in the full article",
+      "randomImg": "https://randomuser.me/api/portraits/women/82.jpg"
+    },
+    {
+      "id": "e22b",
+      "title": "React Tutorial for Beginners ",
+      "author": "Programming with Mosh",
+      "link": "https://www.youtube-nocookie.com/embed/SqcY0GlETPk?si=8NPyUrUXnHcblV7F",
+      "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/maxresdefault.jpg",
+      "duration": "01:20:03",
+      "views": "1.3M",
+      "category": "react",
+      "date": "Dec 26, 2024",
+      "description": "Master React 18 with TypeScript! ⚛️  Build amazing front-end apps with this beginner-friendly tutorial.",
+      "randomImg": "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    {
+      "id": "66d4",
+      "title": "Ultimate Tailwind CSS Tutorial // Build a Discord-inspired Animated Navbar",
+      "author": "Fireship",
+      "link": "https://www.youtube.com/embed/pfaSUYaSgRo?si=8iReyMw2JyNNYZ0m",
+      "duration": "00:12:06",
+      "views": "125k",
+      "thumbnail": "https://i.ytimg.com/vi/pfaSUYaSgRo/maxresdefault.jpg",
+      "category": "tailwind",
+      "date": "Dec 26, 2024",
+      "description": "Learn the basics of Tailwind CSS by building a Discord-inspired navbar from scratch. Learn how to leverage utility classes to build responsive animated UI elements faster ",
+      "randomImg": "https://randomuser.me/api/portraits/women/90.jpg"
+    },
+    {
+      "id": "c8f4",
+      "title": "Node.js Crash Course",
+      "author": "Traversy Media",
+      "link": "https://www.youtube.com/embed/WjQKjHVSFBg?si=v4xf1zaxCQ_EWgG4",
+      "thumbnail": "https://i.ytimg.com/vi/WjQKjHVSFBg/maxresdefault.jpg",
+      "duration": "00:13:45",
+      "views": "238k",
+      "category": "nodejs",
+      "date": "Dec 26, 2024",
+      "description": "This is an intro to Node.js. No frameworks or libraries. We will look at a bunch of the core modules including building a server with the http module.",
+      "randomImg": "https://randomuser.me/api/portraits/men/78.jpg"
+    },
+    {
+      "id": "85ce",
+      "title": "Tailwind CSS Crash Course",
+      "author": "Traversy Media",
+      "link": "https://www.youtube.com/embed/UBOj6rqRUME?si=CuZyrA7VmfEStdEa",
+      "duration": "00:30:44",
+      "views": "640k",
+      "thumbnail": "https://i.ytimg.com/vi/UBOj6rqRUME/maxresdefault.jpg",
+      "category": "tailwind",
+      "date": "Dec 26, 2024",
+      "description": "In this video we will look at the TailwindCSS utility framework including what it is, setup and creating custom components with utilities\n",
+      "randomImg": "https://randomuser.me/api/portraits/men/82.jpg"
+    },
+    {
+      "id": "b6a2",
+      "title": "MERN Stack Tutorial with Deployment – Beginner's Course",
+      "author": "freeCodeCamp.org",
+      "link": "https://www.youtube.com/embed/O3BUHwfHf84?si=TKKeE4R81YKWvtDv",
+      "duration": "02:16:25",
+      "views": "1.5M",
+      "thumbnail": "https://i.ytimg.com/vi/O3BUHwfHf84/maxresdefault.jpg",
+      "category": "mern",
+      "date": "Dec 26, 2024",
+      "description": "Learn to build full-stack web applications using MongoDB, Express.js, React, and Node.js, AKA the MERN stack. This course will guide you through setting up your development environment and creating dynamic, responsive applications from scratch. You'll gain hands-on experience in building RESTful APIs, managing databases, and developing interactive front-end interfaces.\n\n\n",
+      "randomImg": "https://randomuser.me/api/portraits/men/79.jpg"
+    },
+    {
+      "id": "a91f",
+      "title": "MERN Stack Tutorial For Beginners in 2024 - Deployment Included",
+      "author": "As a Programmer",
+      "link": "https://www.youtube.com/embed/Dukz-3mS3Us?si=qy0n8TLlbdbVlzwV",
+      "duration": "2:15:48",
+      "views": "26,7k",
+      "thumbnail": "https://i.ytimg.com/vi/Dukz-3mS3Us/maxresdefault.jpg",
+      "category": "mern",
+      "date": "Dec 26, 2024",
+      "description": "In this free course on MERN Stack by Azadchaiwala, you will have the opportunity to build a crypto blog app and learn the ins and outs of the MERN stack. Throughout the course, you'll not only gain practical experience in both frontend and backend development, but you'll also learn best practices for each. \n",
+      "randomImg": "https://randomuser.me/api/portraits/women/81.jpg"
+    }
+  ]
+}
