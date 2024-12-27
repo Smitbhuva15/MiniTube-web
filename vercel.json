@@ -1,0 +1,20 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "minitube-web/package.json",
+        "use": "@vercel/static-build"
+      },
+      {
+        "src": "server/api/db.js",
+        "use": "@vercel/node"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/api/db/videos",
+        "dest": "server/api/db.js"
+      }
+    ]
+  }
+  
